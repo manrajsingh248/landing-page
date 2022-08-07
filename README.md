@@ -1,3 +1,3 @@
 # landing-page
 
-CSS project to work on my CSS skills! 
+Created a CSS project to work on my CSS skills! 
